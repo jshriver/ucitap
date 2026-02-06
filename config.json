@@ -1,0 +1,4 @@
+{
+  "engine": "./stockfish",
+  "logfile": "stockfish.log"
+}
